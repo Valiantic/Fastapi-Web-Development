@@ -1,4 +1,12 @@
 body{
-    background-color: #252525;
-    color:darkcyan;
+    background-color: wheat;
+  
 }
+
+.contact{
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    border-radius: 10%;
+}
+/* bg-blue-500 text-white px-4 py-2 rounded-lg */
